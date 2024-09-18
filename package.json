@@ -8,7 +8,7 @@
     "url": "http://aws.amazon.com/"
   },
   "scripts": {
-    "build": "browserify lib/main.js -o dist/main.js -d"
+    "build": "browserify lib/main.js -o dist/main.js -d && cp index.html dist/ && cp styles.css dist/"
   },
   "keywords": [],
   "browserify": {
