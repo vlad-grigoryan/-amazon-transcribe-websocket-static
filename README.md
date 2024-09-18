@@ -33,4 +33,4 @@ This project is based on code written by Karan Grover from the Amazon Transcribe
 
 ## License
 
-This library is licensed under the Apache 2.0 License. 
+This library is licensed under the Apache 2.0 License. # -amazon-transcribe-websocket-static
